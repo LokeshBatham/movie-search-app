@@ -70,7 +70,7 @@ button:focus-visible {
 
 
 .search {
-  width: 50vh !important;
+  width: auto !important;
 }
 
 .modal-header {

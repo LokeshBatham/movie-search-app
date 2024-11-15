@@ -7,7 +7,7 @@ Installation
    cd movie-search-app
 
 3. Install dependencies:
-   npm install
+   npm run dev
 
 Environment Setup
 
